@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Discription
 
-This is React-sandbox.
+This is React-sandbox. It is created for testing any react framework.
